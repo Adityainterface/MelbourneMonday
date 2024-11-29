@@ -1,9 +1,0 @@
-.coming-soon {
-    position: relative; /* Allow it to follow natural flow */
-    margin-top: 20px; /* Add spacing above */
-    font-size: 1.8rem;
-    font-weight: bold;
-    letter-spacing: 3px;
-    animation: pulse 2s infinite;
-    z-index: 2;
-}
